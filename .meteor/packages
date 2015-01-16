@@ -9,3 +9,7 @@ autopublish
 insecure
 accounts-ui
 accounts-google
+accounts-base
+differential:event-hooks
+accounts-facebook
+accounts-twitter
