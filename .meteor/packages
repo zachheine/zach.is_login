@@ -13,3 +13,4 @@ accounts-base
 differential:event-hooks
 accounts-facebook
 accounts-twitter
+service-configuration
